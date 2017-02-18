@@ -120,9 +120,7 @@ elephant 提供了常用工具进行封装，包括日志工具、缓存工具�
 ## 如何交流、反馈、参与贡献？
 
 * E-mail：snxkxk@foxmail.com
-* GitHub：<https://github.com/thinkgem/elephant>
-* 开源中国：<http://git.oschina.net/thinkgem/elephant>
-* 官方网址：<http://elephant.com>  论坛：<http://bbs.elephant.com>
+* GitHub：<https://github.com/snxkxk/elephant>
 * 支持elephant发展：（加我好友）支付宝：snxkxk@foxmail.com 
 
 一个人的个人能力再强，也无法战胜一个团队，希望兄弟姐妹的支持，能够贡献出自己的部分代码，参与进来共同完善它(^_^)。
